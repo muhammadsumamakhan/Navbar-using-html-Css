@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.navbar-div{
+    background-color: #e98b17;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-div:hover{
+    background-color: #146cde;
+    color: #ffffff;
+}
+
+ul{
+    text-align: end;
+    color: #ffffff;
+    font-size: 1.3rem;
+}
+
+li{
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+}
